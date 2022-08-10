@@ -3,4 +3,12 @@
   <groupId>in.vinayit</groupId>
   <artifactId>pwd-utils</artifactId>
   <version>RELEASE-2.0</version>
+  
+  <dependencies>
+             <dependency>
+               <groupId>org.springframework</groupId>
+               <artifactId>spring-core</artifactId>
+               <version>5.3.22</version>
+              </dependency>          
+  </dependencies> 
 </project>
